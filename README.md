@@ -1,0 +1,1 @@
+The User Service shred is designed to handle user registration within a Spring Boot microservice using Hexagonal Architecture. It includes an API endpoint for registering users, domain logic for user entity validation, application services for orchestrating the registration process, and infrastructu
